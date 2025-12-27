@@ -17,7 +17,7 @@ Versatile GIS professional skilled in spatial data analysis, interactive mapping
 
 ---
 
-Featured Project
+**Featured Project**
 Healthcare Accessibility Analysis – Mampong Municipality, Ghana (2025)
 
 • Conducted buffer and distance analysis to classify community access
