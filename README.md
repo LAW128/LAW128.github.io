@@ -17,16 +17,14 @@ Versatile GIS professional skilled in spatial data analysis, interactive mapping
 
 ---
 
-### Featured Project  
-**[Healthcare Accessibility Analysis – Mampong Municipality, Ghana (2025)](https://github.com/LAW128/healthcare-accessibility-mampong)**  
-- Conducted buffer and distance analysis to classify community access to health facilities  
-- Refined dataset by integrating private hospitals, clinics, and CHPS compounds  
-- Developed interactive web map using Python Folium  
-- Produced professional report with policy recommendations for equitable healthcare planning  
+Featured Project
+Healthcare Accessibility Analysis – Mampong Municipality, Ghana (2025)
 
-*(Repository coming soon – includes full report, maps, code, and workflow)*
+• Conducted buffer and distance analysis to classify community access
+• Refined dataset by integrating private hospitals, clinics, and CHPS
+• Produced professional report with policy recommendations
 
----
+🔗 github.com/LAW128/healthcare-accessibility-mampong
 
 ### Other Interests & Expertise
 - Urban growth and land-use change detection  
