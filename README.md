@@ -26,8 +26,8 @@ Healthcare Accessibility Analysis – Mampong Municipality, Ghana (2025)
 
 🔗 github.com/LAW128/healthcare-accessibility-mampong
 
-### Featured Project  
-**Tortoise/Turtle Value Chain GIS Analysis – Ghana (2026)**  
+
+Tortoise/Turtle Value Chain GIS Analysis – Ghana (2026)
 
 • Mapped origin-destination flows of tortoise and turtle products using primary survey data from 51 respondents across three habitat zones (High Rainforest, Semi-Deciduous Forest, Savannah)  
 • Aggregated survey points, calculated total annual volumes, and visualized exploitation pressure using graduated symbology in QGIS  
